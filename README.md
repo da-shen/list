@@ -1,5 +1,10 @@
 # list
-Github 上的干货
+令人肃然起敬的清单
+
+
+### 市面上其他著名的收藏列表
+- [awesome](https://github.com/sindresorhus/awesome)
+- [vsTianhao awesome](https://github.com/vsTianhao/awesome)
 
 
 ## OS
