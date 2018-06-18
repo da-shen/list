@@ -32,3 +32,9 @@
 - https://www.liaoxuefeng.com/
 - http://www.ruanyifeng.com/blog/
 - http://pinggod.com/archives/
+
+# Github 拓展
+- [gitter.im](https://gitter.im/) Github社区的交流平台
+- [shields](https://shields.io/) Github README的实时小图标
+- [gitmoji](https://lyrieek.github.io/gitmoji) Github Commit中的动作小图标
+- [github教学](https://github.com/phodal/github)
