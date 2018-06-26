@@ -20,7 +20,7 @@
   
 ## Client
 
-- [30 seconds of code](https://30secondsofcode.org/) [Github](https://github.com/Chalarangelo/30-seconds-of-code)
+- [30 seconds of code](https://30secondsofcode.org/) [[Github]](https://github.com/Chalarangelo/30-seconds-of-code)
 - [30-seconds-of-css](https://atomiks.github.io/30-seconds-of-css/)
 
 ## Hexo
