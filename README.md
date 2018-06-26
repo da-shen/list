@@ -34,9 +34,12 @@
 
 ## Blog
 
-- https://www.liaoxuefeng.com/
-- http://www.ruanyifeng.com/blog/
-- http://pinggod.com/archives/
+- [阮一峰](http://www.ruanyifeng.com/blog/)
+- [尤雨溪](http://caibaojian.com/evan-you) [[Github]](https://github.com/yyx990803)
+- [廖雪峰](https://www.liaoxuefeng.com/) [[Github]](https://github.com/michaelliao)
+- [vczh](http://www.cppblog.com/vczh/category/6885.html) [[Github]](https://github.com/vczh)
+- [pinggod](http://pinggod.com/) [[Github]](https://github.com/pinggod) [[简书]](https://www.jianshu.com/u/91e277b8ee0f)
+- [Ben Frederickson](http://www.benfrederickson.com/blog/)
 
 
 # Github 拓展
