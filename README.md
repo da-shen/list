@@ -23,6 +23,11 @@
 - [30 seconds of code](https://30secondsofcode.org/) [[Github]](https://github.com/Chalarangelo/30-seconds-of-code)
 - [30-seconds-of-css](https://atomiks.github.io/30-seconds-of-css/)
 
+## JVM
+- [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
+  - [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
+- [Groovy](https://github.com/kdabir/awesome-groovy) [[官网]](http://www.groovy-lang.org/)
+
 ## Hexo
 
 - [Hexo](https://github.com/hexojs/hexo)
