@@ -27,6 +27,7 @@
 - [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
   - [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
 - [Groovy](https://github.com/kdabir/awesome-groovy) [[官网]](http://www.groovy-lang.org/)
+  - [grooscript](https://github.com/chiquitinxx/grooscript) - 将Groovy代码转换为Javascript
 
 ## Hexo
 
