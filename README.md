@@ -1,5 +1,5 @@
 # list
-令人肃然起敬的清单
+一些清单
 
 
 ### 市面上其他著名的收藏列表
@@ -26,6 +26,7 @@
 ## JVM
 - [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
   - [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
+- [Scala](https://github.com/lauris/awesome-scala) [[官网]](https://www.scala-lang.org/)
 - [Groovy](https://github.com/kdabir/awesome-groovy) [[官网]](http://www.groovy-lang.org/)
   - [grooscript](https://github.com/chiquitinxx/grooscript) - 将Groovy代码转换为Javascript
 
