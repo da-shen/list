@@ -5,9 +5,11 @@
 关于“一些清单”，有[一些解释](https://github.com/da-shen/list/blob/master/contributing.md)
 
 
-### 市面上其他著名的收藏列表
-- [awesome](https://github.com/sindresorhus/awesome)
-- [vsTianhao awesome](https://github.com/vsTianhao/awesome)
+### 市面上其他的收藏列表
+- [awesome](https://github.com/sindresorhus/awesome) - 非常丰富的列表
+- [vsTianhao awesome](https://github.com/vsTianhao/awesome) - 我对awesome的fork，进行了中文的翻译
+- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) - 免费的编程书籍，很大很完善
+- [jnv/lists](https://github.com/jnv/lists) - 对awesome的分类
 
 
 ## OS
