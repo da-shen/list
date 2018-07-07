@@ -29,6 +29,8 @@
 - [Scala](https://github.com/lauris/awesome-scala) [[官网]](https://www.scala-lang.org/)
 - [Groovy](https://github.com/kdabir/awesome-groovy) [[官网]](http://www.groovy-lang.org/)
   - [grooscript](https://github.com/chiquitinxx/grooscript) - 将Groovy代码转换为Javascript
+- [Clojure](https://github.com/razum2um/awesome-clojure)
+  - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
 
 ## Hexo
 
