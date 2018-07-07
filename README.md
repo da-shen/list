@@ -2,7 +2,7 @@
 
 `` 一些清单 ``
 --
-“一些清单”使用了[一些规定](一些规定)
+关于“一些清单”，有[一些解释](https://github.com/da-shen/list/blob/master/contributing.md)
 
 
 ### 市面上其他著名的收藏列表
