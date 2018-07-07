@@ -41,7 +41,7 @@
 
 ## IDE
 
-- [idea](https://github.com/JetBrains/intellij-community) [[官网]](http://www.jetbrains.com/idea/)
+- [intellij-idea](https://github.com/JetBrains/intellij-community) [[官网]](http://www.jetbrains.com/idea/)
   - [中文教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 
 
