@@ -1,5 +1,8 @@
 # list
-一些清单
+
+`` 一些清单 ``
+--
+“一些清单”使用了[一些规定](一些规定)
 
 
 ### 市面上其他著名的收藏列表
@@ -17,13 +20,16 @@
   - [教学视频](https://github.com/open-android/Android)
   - [Toolkit](https://github.com/cSploit/android)
   - [UI](https://github.com/wasabeef/awesome-android-ui)
-  
+
+
 ## Client
 
 - [30 seconds of code](https://30secondsofcode.org/) [[Github]](https://github.com/Chalarangelo/30-seconds-of-code)
 - [30-seconds-of-css](https://atomiks.github.io/30-seconds-of-css/)
 
+
 ## JVM
+
 - [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
   - [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
 - [Scala](https://github.com/lauris/awesome-scala) [[官网]](https://www.scala-lang.org/)
@@ -31,6 +37,13 @@
   - [grooscript](https://github.com/chiquitinxx/grooscript) - 将Groovy代码转换为Javascript
 - [Clojure](https://github.com/razum2um/awesome-clojure)
   - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
+
+
+## IDE
+
+- [idea](https://github.com/JetBrains/intellij-community) [[官网]](http://www.jetbrains.com/idea/)
+  - [中文教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+
 
 ## Hexo
 
@@ -40,6 +53,7 @@
 - [hexo-theme-material](https://github.com/viosey/hexo-theme-material)
 - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo)
 - [hexo-admin](https://github.com/jaredly/hexo-admin)
+
 
 ## Blog
 
