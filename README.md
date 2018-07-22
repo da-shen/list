@@ -26,8 +26,8 @@
 
 ## Client
 
-- [30 seconds of code](https://30secondsofcode.org/) [[Github]](https://github.com/Chalarangelo/30-seconds-of-code)
-- [30-seconds-of-css](https://atomiks.github.io/30-seconds-of-css/)
+- [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) [[官网]](https://30secondsofcode.org/)
+- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) [[Blog]](https://atomiks.github.io/30-seconds-of-css/)
 
 
 ## JVM
