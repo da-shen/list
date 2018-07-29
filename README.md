@@ -69,12 +69,12 @@
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [尤雨溪](http://caibaojian.com/evan-you) [[Github]](https://github.com/yyx990803)
 - [廖雪峰](https://www.liaoxuefeng.com/) [[Github]](https://github.com/michaelliao)
-- [vczh](http://www.cppblog.com/vczh/category/6885.html) [[Github]](https://github.com/vczh) 轮子哥
-- [pinggod](http://pinggod.com/) [[Github]](https://github.com/pinggod) [[简书]](https://www.jianshu.com/u/91e277b8ee0f)
-- [Ben Frederickson](http://www.benfrederickson.com/blog/) [[Github]](htps://github.com/benfred)
+- [vczh(轮子哥)](http://www.cppblog.com/vczh/category/6885.html) [[Github]](https://github.com/vczh) 
+- [pinggod](http://pinggod.com/) [[Github]](https://github.com/pinggod) [[简书]](https://www.jianshu.com/u/91e277b8ee0f) 
+- [Ben Frederickson](http://www.benfrederickson.com/blog/) [[Github]](https://github.com/benfred) 
 
 
-# Git&Github 拓展
+# Git&Github 拓展工具与项目
 - [Hub](https://github.com/github/hub) Github官方对Git命令的扩展
 - [gitter.im](https://gitter.im/) Github社区的交流平台
 - [shields](https://shields.io/) Github README的实时小图标
