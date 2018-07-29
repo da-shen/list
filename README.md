@@ -17,11 +17,11 @@
 - [Linux](https://github.com/torvalds/linux)
 - [Unix](https://github.com/qrush/unix)
 
-  #### Android
-  - [Examples](https://github.com/hmkcode/Android)
-  - [教学视频](https://github.com/open-android/Android)
-  - [Toolkit](https://github.com/cSploit/android)
-  - [UI](https://github.com/wasabeef/awesome-android-ui)
+	#### Android
+	- [Examples](https://github.com/hmkcode/Android)
+	- [教学视频](https://github.com/open-android/Android)
+	- [Toolkit](https://github.com/cSploit/android)
+	- [UI](https://github.com/wasabeef/awesome-android-ui)
 
 
 ## Client
@@ -33,24 +33,24 @@
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips)
-  - [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) [[Blog]](https://atomiks.github.io/30-seconds-of-css/)
+- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) [[Blog]](https://atomiks.github.io/30-seconds-of-css/)
 
 
 ## JVM
 
 - [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
-  - [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
+	- [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
 - [Scala](https://github.com/lauris/awesome-scala) [[官网]](https://www.scala-lang.org/)
 - [Groovy](https://github.com/kdabir/awesome-groovy) [[官网]](http://www.groovy-lang.org/)
-  - [grooscript](https://github.com/chiquitinxx/grooscript) - 将Groovy代码转换为Javascript
+	- [grooscript](https://github.com/chiquitinxx/grooscript) - 将Groovy代码转换为Javascript
 - [Clojure](https://github.com/razum2um/awesome-clojure)
-  - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
+	- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
 
 
 ## IDE
 
 - [intellij-idea](https://github.com/JetBrains/intellij-community) [[官网]](http://www.jetbrains.com/idea/)
-  - [中文教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+	- [中文教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 
 
 ## Hexo
@@ -73,11 +73,15 @@
 - [Ben Frederickson](http://www.benfrederickson.com/blog/)
 
 
-# Github 拓展
+# Git&Github 拓展
 - [gitter.im](https://gitter.im/) Github社区的交流平台
 - [shields](https://shields.io/) Github README的实时小图标
 - [gitmoji](https://lyrieek.github.io/gitmoji) Github Commit中的动作小图标
-- [github教学](https://github.com/phodal/github)
+- 相关教程
+	- [Phodal Huang的GitHub漫游指南](https://github.com/phodal/github)
+	- [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+	- [Github官方文档](https://help.github.com/)
+	- [Github设置](https://help.github.com/articles/set-up-git/#platform-all)
 
 # Tool
 - [图片去背景色](http://www.aigei.com/bgremover/)
