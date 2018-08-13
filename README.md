@@ -57,8 +57,8 @@
 ## Hexo
 
 - [Hexo](https://github.com/hexojs/hexo)
-- Theme
-	[[hexo-theme-light]](https://github.com/hexojs/hexo-theme-light)
+- Theme -
+	- [[hexo-theme-light]](https://github.com/hexojs/hexo-theme-light)
 	[[hexo-theme-next]](https://github.com/iissnan/hexo-theme-next)
 	[[hexo-theme-material]](https://github.com/viosey/hexo-theme-material)
 	[[hexo-theme-indigo]](https://github.com/yscoder/hexo-theme-indigo)
