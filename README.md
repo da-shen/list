@@ -66,6 +66,13 @@
 
 - [intellij-idea](https://github.com/JetBrains/intellij-community) [[官网]](http://www.jetbrains.com/idea/)
 	- [中文教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+	
+
+## Project assist
+
+- Wechat
+	- [weixin4j](https://github.com/foxinmy/weixin4j) 对微信小程序的再次封装
+- https://github.com/xnx3/xnx3 常用工具
 
 
 ## Hexo
@@ -79,7 +86,7 @@
 - [hexo-admin](https://github.com/jaredly/hexo-admin)
 
 
-## Blog 
+## Blog & Notes
 ``此节内容特殊,优先作者博客地址,其次放置Github地址,其他相关地址靠后`
 
 - [阮一峰](http://www.ruanyifeng.com/blog/)
@@ -88,7 +95,7 @@
 - [vczh(轮子哥)](http://www.cppblog.com/vczh/category/6885.html) [[Github]](https://github.com/vczh) 
 - [pinggod](http://pinggod.com/) [[Github]](https://github.com/pinggod) [[简书]](https://www.jianshu.com/u/91e277b8ee0f) 
 - [Ben Frederickson](http://www.benfrederickson.com/blog/) [[Github]](https://github.com/benfred) 
-
+- [前端笔记](https://github.com/woai30231/webDevDetails)
 
 # Git&Github 拓展工具与项目
 - [Hub](https://github.com/github/hub) Github官方对Git命令的扩展
