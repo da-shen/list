@@ -63,10 +63,11 @@
 	- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
 
 
-## IDE
+## IDE & Editor
 
 - [intellij-idea](https://github.com/JetBrains/intellij-community) [[官网]](http://www.jetbrains.com/idea/)
 	- [中文教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+- [vscode](https://github.com/Microsoft/vscode) [[官网]](https://code.visualstudio.com/)
 	
 
 ## Project assist
