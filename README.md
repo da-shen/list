@@ -90,7 +90,7 @@
 
 
 ## Blog & Notes
-``此节内容特殊,优先作者博客地址,其次放置Github地址,其他相关地址靠后`
+``此节内容特殊,优先作者博客地址,其次放置Github地址,其他相关地址靠后``
 
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [尤雨溪](http://caibaojian.com/evan-you) [[Github]](https://github.com/yyx990803)
@@ -100,7 +100,7 @@
 - [Ben Frederickson](http://www.benfrederickson.com/blog/) [[Github]](https://github.com/benfred) 
 - [前端笔记](https://github.com/woai30231/webDevDetails)
 
-# Git&Github 拓展工具与项目
+## Git&Github 拓展工具与项目
 - [Hub](https://github.com/github/hub) Github官方对Git命令的扩展
 - [gitter.im](https://gitter.im/) Github社区的交流平台
 - [shields](https://shields.io/) Github README的实时小图标
