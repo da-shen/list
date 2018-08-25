@@ -88,9 +88,15 @@
 	[[hexo-theme-indigo]](https://github.com/yscoder/hexo-theme-indigo)
 - [hexo-admin](https://github.com/jaredly/hexo-admin)
 
+## Encode & Encryption
+``此节内容特殊,优先wiki``
+
+- [MD5](https://en.wikipedia.org/wiki/MD5) JS(https://github.com/blueimp/JavaScript-MD5)
+- [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
+
 
 ## Blog & Notes
-``此节内容特殊,优先作者博客地址,其次放置Github地址,其他相关地址靠后``
+``此节内容特殊,优先作者博客地址``
 
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [尤雨溪](http://caibaojian.com/evan-you) [[Github]](https://github.com/yyx990803)
