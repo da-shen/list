@@ -91,7 +91,7 @@
 ## Encode & Encryption
 ``此节内容特殊,优先wiki``
 
-- [MD5](https://en.wikipedia.org/wiki/MD5) JS(https://github.com/blueimp/JavaScript-MD5)
+- [MD5](https://en.wikipedia.org/wiki/MD5) [[JS]](https://github.com/blueimp/JavaScript-MD5)
 - [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
 
 
