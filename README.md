@@ -50,7 +50,12 @@
 		- [Vux](https://github.com/airyland/vux) [[官网]](https://doc.vux.li/)
 		- [Element](https://github.com/ElemeFE/element) [[官网]](http://element-cn.eleme.io/#/zh-CN)
 		- [mint-ui](https://github.com/ElemeFE/mint-ui) [[官网]](https://mint-ui.github.io/)
-
+- Functions
+	- [highlight](https://github.com/highlightjs/highlight.js) 语法高亮 [[官网]](https://highlightjs.org)
+	- [MD5](https://github.com/blueimp/JavaScript-MD5)
+	- [gmaps](https://github.com/hpneo/gmaps) 谷歌地图
+	- [pdf.js](https://github.com/mozilla/pdf.js)
+	- [excel](https://github.com/guyonroche/exceljs)
 
 ## JVM
 
@@ -69,7 +74,10 @@
 - [intellij-idea](https://github.com/JetBrains/intellij-community) [[官网]](http://www.jetbrains.com/idea/)
 	- [中文教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 - [vscode](https://github.com/Microsoft/vscode) [[官网]](https://code.visualstudio.com/)
-	
+- [Emacs](https://github.com/emacs-mirror/emacs) [[官网]](http://www.gnu.org/software/emacs/) [[中文论坛]](https://emacs-china.org/)
+- [Spacemacs](https://github.com/syl20bnr/spacemacs)
+- [vim](https://github.com/vim/vim)
+
 
 ## Project assist
 
