@@ -51,7 +51,9 @@
 		- [Element](https://github.com/ElemeFE/element) [[官网]](http://element-cn.eleme.io/#/zh-CN)
 		- [mint-ui](https://github.com/ElemeFE/mint-ui) [[官网]](https://mint-ui.github.io/)
 - Functions
-	- [highlight](https://github.com/highlightjs/highlight.js) 语法高亮 [[官网]](https://highlightjs.org)
+	- 语法高亮
+		- [highlight](https://github.com/highlightjs/highlight.js) 语法高亮 [[官网]](https://highlightjs.org)
+		- [syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter)
 	- [MD5](https://github.com/blueimp/JavaScript-MD5)
 	- [gmaps](https://github.com/hpneo/gmaps) 谷歌地图
 	- [pdf.js](https://github.com/mozilla/pdf.js)
