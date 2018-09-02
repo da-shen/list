@@ -2,7 +2,7 @@
 
 `` 一封清单 ``
 --
-关于“一些清单”，有[一封解释](https://github.com/da-shen/list/blob/master/contributing.md)
+关于“一些清单”，请看[一封解释](https://github.com/da-shen/list/blob/master/contributing.md)
 
 
 ### 市面上其他的收藏列表
