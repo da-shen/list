@@ -46,6 +46,8 @@
 	- [babel](https://github.com/babel/babel) [[官网]](https://www.babeljs.cn/)
 - Framework
 	- [Vue](https://github.com/vuejs/vue) [[官网]](https://cn.vuejs.org/)
+	- [react](https://react.docschina.org/)
+	- [angular](https://www.angular.cn/api)
 - UI
 	- no dependent
 		- [WeUI](https://github.com/Tencent/weui) [[官网]](https://weui.io/) - 微信UI (无JS)
