@@ -119,7 +119,7 @@
 - [廖雪峰](https://www.liaoxuefeng.com/) [[Github]](https://github.com/michaelliao)
 - [vczh(轮子哥)](http://www.cppblog.com/vczh/category/6885.html) [[Github]](https://github.com/vczh)
 - [pinggod](http://pinggod.com/) [[Github]](https://github.com/pinggod) [[简书]](https://www.jianshu.com/u/91e277b8ee0f)
-- [Jon Skeet](https://codeblog.jonskeet.uk/) [[stack overflow]](https://stackoverflow.com/users/22656/jon-skeet) 
+- [Jon Skeet](https://codeblog.jonskeet.uk/) [[stack overflow]](https://stackoverflow.com/users/22656/jon-skeet) [[twitter]](https://twitter.com/jonskeet)
 - [Ben Frederickson](http://www.benfrederickson.com/blog/) [[Github]](https://github.com/benfred) 
 - [前端笔记](https://github.com/woai30231/webDevDetails)
 
