@@ -40,6 +40,9 @@
 - CSS
 	- [CSS](https://github.com/sotayamashita/awesome-css)
 	- [30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) [[Blog]](https://atomiks.github.io/30-seconds-of-css/)
+- Linter
+	- [ESLint](http://eslint.cn/docs/rules/)
+	- [TSLint](https://palantir.github.io/tslint/)
 - Build
 	- [gulp](https://github.com/gulpjs/gulp) [[官网]](https://www.gulpjs.com.cn/)
 	- [grunt](https://github.com/gruntjs/grunt) [[官网]](https://www.gruntjs.net/)
