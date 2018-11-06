@@ -130,6 +130,8 @@
 - [Hub](https://github.com/github/hub) Github官方对Git命令的扩展
 - [gitter.im](https://gitter.im/) Github社区的交流平台
 - [shields](https://shields.io/) Github README的实时小图标
+- [githuber](https://githuber.cn/) 对Github的统计
+- [git-awards](http://git-awards.com/) 在Github中的排名
 - [gitmoji](https://lyrieek.github.io/gitmoji) Github Commit中的动作小图标
 - [GitBook](https://www.gitbook.com/) 基于Git,使用Markdown的书籍托管平台
 - 相关教程
