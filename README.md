@@ -47,6 +47,9 @@
 	- [gulp](https://github.com/gulpjs/gulp) [[官网]](https://www.gulpjs.com.cn/)
 	- [grunt](https://github.com/gruntjs/grunt) [[官网]](https://www.gruntjs.net/)
 	- [babel](https://github.com/babel/babel) [[官网]](https://www.babeljs.cn/)
+- Package Manager
+	- [npm](https://www.npmjs.com/)
+	- [bower](https://bower.io/)
 - Framework
 	- [Vue](https://github.com/vuejs/vue) [[官网]](https://cn.vuejs.org/)
 	- [react](https://react.docschina.org/)
