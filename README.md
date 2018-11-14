@@ -137,6 +137,7 @@
 - [git-awards](http://git-awards.com/) 在Github中的排名
 - [gitmoji](https://lyrieek.github.io/gitmoji) Github Commit中的动作小图标
 - [GitBook](https://www.gitbook.com/) 基于Git,使用Markdown的书籍托管平台
+- [gh-ost](https://github.com/github/gh-ost) GitHub的MySQL在线模式迁移
 - 相关教程
 	- [Phodal Huang的GitHub漫游指南](https://github.com/phodal/github)
 	- [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
