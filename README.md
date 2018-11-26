@@ -65,7 +65,8 @@
 		- [iView](https://www.iviewui.com/)
 		- [mint-ui](https://github.com/ElemeFE/mint-ui) [[官网]](https://mint-ui.github.io/)
 		- [cube-ui](https://didi.github.io/cube-ui/#/zh-CN) (纯移动)
-		- [buefy](https://buefy.github.io/) 丰富
+		- [buefy](https://buefy.github.io/) 丰富 pc
+		- [vue-beauty](https://fe-driver.github.io/vue-beauty/#/components/start) pc
 - Functions
 	- 语法高亮
 		- [highlight](https://github.com/highlightjs/highlight.js) 语法高亮 [[官网]](https://highlightjs.org)
