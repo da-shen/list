@@ -44,6 +44,7 @@
 	- [ESLint](http://eslint.cn/docs/rules/)
 	- [TSLint](https://palantir.github.io/tslint/)
 - Build
+	- [webpack](https://www.webpackjs.com/guides/)
 	- [gulp](https://github.com/gulpjs/gulp) [[官网]](https://www.gulpjs.com.cn/)
 	- [grunt](https://github.com/gruntjs/grunt) [[官网]](https://www.gruntjs.net/)
 	- [babel](https://github.com/babel/babel) [[官网]](https://www.babeljs.cn/)
