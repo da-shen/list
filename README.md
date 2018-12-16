@@ -155,6 +155,7 @@
 - [图片去背景色](http://www.aigei.com/bgremover/)
 - [JSON在线解析](https://www.json.cn/)
 - [盘多多](http://www.panduoduo.net/)
+- [nicetool](http://www.nicetool.net/list/chengxu/)
 
 # Dev Software
 - [ConEmu](https://conemu.github.io/)
