@@ -159,4 +159,5 @@
 
 # Dev Software
 - [ConEmu](https://conemu.github.io/)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices?utm_source=gold_browser_extension)
 
