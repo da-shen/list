@@ -77,6 +77,7 @@
 	- [pdf.js](https://github.com/mozilla/pdf.js)
 	- [excel](https://github.com/guyonroche/exceljs)
 
+
 ## JVM
 
 - [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
@@ -87,6 +88,11 @@
 	- [grooscript](https://github.com/chiquitinxx/grooscript) - 将Groovy代码转换为Javascript
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
+	
+	
+## design-patterns
+
+[java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 
 
 ## IDE & Editor
