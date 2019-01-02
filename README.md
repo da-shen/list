@@ -76,6 +76,7 @@
 	- [gmaps](https://github.com/hpneo/gmaps) 谷歌地图
 	- [pdf.js](https://github.com/mozilla/pdf.js)
 	- [excel](https://github.com/guyonroche/exceljs)
+	- [markedjs](https://github.com/markedjs)
 
 
 ## JVM
