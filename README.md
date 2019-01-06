@@ -141,6 +141,7 @@
 - [Jon Skeet](https://codeblog.jonskeet.uk/) [[stack overflow]](https://stackoverflow.com/users/22656/jon-skeet) [[twitter]](https://twitter.com/jonskeet)
 - [Ben Frederickson](http://www.benfrederickson.com/blog/) [[Github]](https://github.com/benfred) 
 - [前端笔记](https://github.com/woai30231/webDevDetails)
+- [张小伦](https://zhanglun.github.io/)
 
 ## Git&Github 拓展工具与项目
 - [Hub](https://github.com/github/hub) Github官方对Git命令的扩展
