@@ -143,6 +143,7 @@
 - [前端笔记](https://github.com/woai30231/webDevDetails)
 - [张小伦](https://zhanglun.github.io/)
 - [雪山大虫](https://home.cnblogs.com/u/tiger-xc/)
+- [赵4老师](https://me.csdn.net/zhao4zhong1)
 
 ## Git&Github 拓展工具与项目
 - [Hub](https://github.com/github/hub) Github官方对Git命令的扩展
