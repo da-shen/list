@@ -95,6 +95,7 @@
 
 [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 [sourcemaking](https://sourcemaking.com/design_patterns)
+[ibm](https://www.ibm.com/developerworks/cn/education/java/j-patterns/tutorial/j-patterns.html)
 
 
 ## IDE & Editor
