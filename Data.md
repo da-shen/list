@@ -25,3 +25,4 @@
 ### 外文
 
 - [yandex](https://yandex.ru/)
+- http://www.mybrowserpage.com/
