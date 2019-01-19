@@ -1,7 +1,13 @@
 ## 数据列表
 
+
+## 导航类网站
+
+---
+
 ### 域名收集
 
+- [a导航](http://www.adaohang.com/daohang.html)
 - [站长之家-域名备案](http://icp.chinaz.com/provinces)
 - [世界各国网址大全](http://www.world68.com/)
 - [UC导航](http://www.uc123.com/)
