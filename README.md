@@ -87,6 +87,7 @@
 ## JVM
 
 - [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
+	- [RxJava](https://github.com/ReactiveX/RxJava)
 	- [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
 - [Scala](https://github.com/lauris/awesome-scala) [[官网]](https://www.scala-lang.org/)
 - [Kotlin](https://github.com/JetBrains/kotlin) [[官网]](http://kotlinlang.org/)
