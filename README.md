@@ -55,7 +55,7 @@
 	- [npm](https://www.npmjs.com/)
 	- [bower](https://bower.io/)
 - Framework
-	- [Vue](https://github.com/vuejs/vue) [[官网]](https://cn.vuejs.org/)
+	- [Vue](https://github.com/vuejs/vue) [[官网]](https://cn.vuejs.org/) [awesome-vue](https://github.com/vuejs/awesome-vue)
 	- [react](https://react.docschina.org/)
 	- [angular](https://www.angular.cn/api)
 - UI
