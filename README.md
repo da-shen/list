@@ -73,6 +73,8 @@
 		- [vue-beauty](https://fe-driver.github.io/vue-beauty/#/components/start) pc
 		- [museui](https://github.com/museui/muse-ui) 三端一致
 		- [vue-chat](https://github.com/Coffcer/vue-chat) 聊天
+		- [vue-desktop](https://github.com/ElemeFE/vue-desktop) 构建管理面板
+
 - Functions
 	- 语法高亮
 		- [highlight](https://github.com/highlightjs/highlight.js) 语法高亮 [[官网]](https://highlightjs.org)
