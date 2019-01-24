@@ -59,9 +59,10 @@
 	- [react](https://react.docschina.org/)
 	- [angular](https://www.angular.cn/api)
 - UI
-	- no dependent
-		- [WeUI](https://github.com/Tencent/weui) [[官网]](https://weui.io/) - 微信UI (无JS)
-		- [FrozenUI](https://github.com/frozenui/frozenui) [[官网]](https://frozenui.github.io/) - 手机QQ UI (无JS)
+	- no dependent (无JS)
+		- [WeUI](https://github.com/Tencent/weui) [[官网]](https://weui.io/) - 微信UI
+		- [FrozenUI](https://github.com/frozenui/frozenui) [[官网]](https://frozenui.github.io/) - 手机QQ UI
+		- [Hover.css](https://github.com/IanLunn/Hover)
 	- vue
 		- [Vux](https://github.com/airyland/vux) [[官网]](https://doc.vux.li/)
 		- [iview](https://github.com/iview/iview) [[官网]](https://iviewui.com/)
