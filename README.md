@@ -63,6 +63,9 @@
 		- [WeUI](https://github.com/Tencent/weui) [[官网]](https://weui.io/) - 微信UI
 		- [FrozenUI](https://github.com/frozenui/frozenui) [[官网]](https://frozenui.github.io/) - 手机QQ UI
 		- [Hover.css](https://github.com/IanLunn/Hover)
+		- [Animate.css](https://github.com/daneden/animate.css) [[官网]](https://daneden.github.io/animate.css/)
+	- Animate
+		- [ScrollReveal](https://github.com/scrollreveal/scrollreveal) [[官网]](https://scrollrevealjs.org/)
 	- vue
 		- [Vux](https://github.com/airyland/vux) [[官网]](https://doc.vux.li/)
 		- [iview](https://github.com/iview/iview) [[官网]](https://iviewui.com/)
