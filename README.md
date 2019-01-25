@@ -92,6 +92,7 @@
 - [Java](https://github.com/vsTianhao/awesome/blob/master/awesome-java-cn.md)
 	- [RxJava](https://github.com/ReactiveX/RxJava)
 	- [Template Engine](https://github.com/vsTianhao/awesome/blob/master/java-template.md)
+	- [Gradle](https://gradle.org/)
 - [Scala](https://github.com/lauris/awesome-scala) [[官网]](https://www.scala-lang.org/)
 - [Kotlin](https://github.com/JetBrains/kotlin) [[官网]](http://kotlinlang.org/)
 - [Groovy](https://github.com/kdabir/awesome-groovy) [[官网]](http://www.groovy-lang.org/)
