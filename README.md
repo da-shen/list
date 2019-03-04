@@ -51,6 +51,7 @@
 	- [grunt](https://github.com/gruntjs/grunt) [[官网]](https://www.gruntjs.net/)
 	- [babel](https://github.com/babel/babel) [[官网]](https://www.babeljs.cn/)
 	- [rollup](https://www.rollupjs.com/guide/zh)
+	- [vue-fis3](https://github.com/okoala/vue-fis3)
 - Package Manager
 	- [npm](https://www.npmjs.com/)
 	- [bower](https://bower.io/)
