@@ -55,6 +55,7 @@
 - Package Manager
 	- [npm](https://www.npmjs.com/)
 	- [bower](https://bower.io/)
+	- [yarn](https://yarnpkg.com/zh-Hant/)
 - Framework
 	- [Vue](https://github.com/vuejs/vue) [[官网]](https://cn.vuejs.org/) [awesome-vue](https://github.com/vuejs/awesome-vue)
 	- [react](https://react.docschina.org/)
